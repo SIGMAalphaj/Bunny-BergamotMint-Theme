@@ -20,16 +20,16 @@
         "BACKGROUND_NESTED_FLOATING": ["#7a8b9e", "#6b7b8d"],
         "BACKGROUND_PRIMARY": ["#7f8f9e", "#6c7f8f"],
         "BACKGROUND_SECONDARY": ["#6a7d8a", "#5b6f7b"],
-        "BACKGROUND_SECONDARY_ALT": ["#4d5f71", "#44526a"], 
+        "BACKGROUND_SECONDARY_ALT": ["#4d5f71", "#44526a"],
         "BACKGROUND_TERTIARY": ["#3b4b65", "#32445c"],
         "BG_BASE_PRIMARY": ["#8a9cb3", "#8a9cb3"],
         "BG_BASE_SECONDARY": ["#7f8f9e", "#7f8f9e"],
         "BG_BASE_TERTIARY": ["#6a7d8a", "#6a7d8a"],
         "EMBED_BACKGROUND": ["#4d5f71", "#4d5f71"],
         "CARD_PRIMARY_BG": ["#8a9cb3", "#8a9cb3"],
-        "CARD_PRIMARY_PRESSED_BG": ["#5a6f84", "#5a6f84"], 
-        "CHANNEL_ICON": ["#3b4b65", "#3b4b65"], 
-        "CHANNELS_DEFAULT": ["#536c7a", "#536c7a"], 
+        "CARD_PRIMARY_PRESSED_BG": ["#5a6f84", "#5a6f84"],
+        "CHANNEL_ICON": ["#3b4b65", "#3b4b65"],
+        "CHANNELS_DEFAULT": ["#536c7a", "#536c7a"],
         "CHAT_BACKGROUND": ["#8a9cb3", "#7f8f9e"],
         "HEADER_PRIMARY": ["#2e3e55", "#2e3e55"],
         "HEADER_SECONDARY": ["#3f4e69", "#3f4e69"],
@@ -39,8 +39,8 @@
         "INTERACTIVE_MUTED": ["#4c5d73", "#4c5d73"],
         "REDESIGN_BUTTON_SECONDARY_BORDER": ["#3f4d66", "#3f4d66"],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#7f8f9e", "#7f8f9e"],
-        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#6f7b92", "#6f7b92"], 
-        "REDESIGN_CHANNEL_NAME_TEXT": ["#c2d3e0", "#c2d3e0"], 
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#6f7b92", "#6f7b92"],
+        "REDESIGN_CHANNEL_NAME_TEXT": ["#c2d3e0", "#c2d3e0"],
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#7f8f9e", "#7f8f9e"],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#4e5c73", "#4e5c73"],
         "TEXT_LINK": ["#4e5c73", "#4e5c73"],
@@ -77,12 +77,13 @@
         "YELLOW_300": "#6f7b92"
     },
     "plus": {
-    "version": "0",
-    "customOverlays": true,
-    "mentionLineColor": "#6f7b92",
-    "icons": {
-        "ic_close_24px": "#2e3b50",
-        "SettingsIcon": "#3f4d66"
-    }
-},
-"spec": 2
+        "version": "0",
+        "customOverlays": true,
+        "mentionLineColor": "#6f7b92",
+        "icons": {
+            "ic_close_24px": "#2e3b50",
+            "SettingsIcon": "#3f4d66"
+        }
+    },
+    "spec": 2
+}
