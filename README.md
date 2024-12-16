@@ -4,10 +4,14 @@ Hey There! I recently have been playing around with the popular discord client; 
 
 ## Examples
 
-1. ![1000028434](https://github.com/user-attachments/assets/4ed74ead-1f86-41ff-907c-4c14f5af6523)
-2. ![1000028432](https://github.com/user-attachments/assets/4214a492-01cb-4e66-813a-50abb13bd281)
+<details>
+  <summary>Click to view examples</summary>
 
+  1. ![Example 1](https://github.com/user-attachments/assets/4ed74ead-1f86-41ff-907c-4c14f5af6523)
+  
+  2. ![Example 2](https://github.com/user-attachments/assets/4214a492-01cb-4e66-813a-50abb13bd281)
 
+</details>
 
 ## Installation
 1. Choose any .json file for the theme you want!
