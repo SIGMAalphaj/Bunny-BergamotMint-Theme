@@ -6,12 +6,12 @@ Hey There! I recently have been playing around with the popular discord client; 
 
 <details>
   <summary>Example 1</summary>
-  ![Example 1](https://github.com/user-attachments/assets/4ed74ead-1f86-41ff-907c-4c14f5af6523)
+  ![Example 1](https://raw.githubusercontent.com/user-attachments/assets/4ed74ead-1f86-41ff-907c-4c14f5af6523)
 </details>
 
 <details>
   <summary>Example 2</summary>
-  ![Example 2](https://github.com/user-attachments/assets/4214a492-01cb-4e66-813a-50abb13bd281)
+  ![Example 2](https://raw.githubusercontent.com/user-attachments/assets/4214a492-01cb-4e66-813a-50abb13bd281)
 </details>
 
 ## Installation
