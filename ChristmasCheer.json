@@ -1,6 +1,6 @@
 {
     "name": "Christmas Cheer",
-    "description": "A traditional Christmas theme with bold red and green, evoking a festive holiday atmosphere.",
+    "description": "Traditional Christmas colors (red+green) for a great vibe!",
     "authors": [
         {
             "name": "By Bunny Themes!"
@@ -44,9 +44,9 @@
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#9d2a2a", "#9d2a2a"],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#1f5c2c", "#1f5c2c"],
         "TEXT_LINK": ["#9d2a2a", "#9d2a2a"],
-        "TEXT_MUTED": ["#7a5228", "#7a5228"],
-        "TEXT_NORMAL": ["#9d2a2a", "#9d2a2a"],
-        "TEXT_PRIMARY": ["#9d2a2a", "#9d2a2a"],
+        "TEXT_MUTED": ["#ffffff", "#ffffff"],
+        "TEXT_NORMAL": ["#ffffff", "#ffffff"],
+        "TEXT_PRIMARY": ["#ffffff", "#ffffff"],
         "THREAD_CHANNEL_SPINE": ["#7a5228", "#7a5228"]
     },
     "rawColors": {
