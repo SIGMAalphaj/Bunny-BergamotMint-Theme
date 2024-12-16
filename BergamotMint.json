@@ -20,6 +20,14 @@
         "BACKGROUND_NESTED_FLOATING": ["#6a8a69", "#5c7a5c"],
         "BACKGROUND_PRIMARY": ["#7e9f7e", "#6b8e6b"],
         "BACKGROUND_SECONDARY": ["#617b61", "#546c54"],
+        "BACKGROUND_SECONDARY_ALT": ["#4e6e4e
+        "BACKGROUND_MODIFIER_HOVER": ["#4b6e4b", "#4b6e4b"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#3f5b3f", "#3f5b3f"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#92b68f", "#7e9f7e"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#7e9f7e", "#7e9f7e"],
+        "BACKGROUND_NESTED_FLOATING": ["#6a8a69", "#5c7a5c"],
+        "BACKGROUND_PRIMARY": ["#7e9f7e", "#6b8e6b"],
+        "BACKGROUND_SECONDARY": ["#617b61", "#546c54"],
         "BACKGROUND_SECONDARY_ALT": ["#4e6e4e", "#466c46"],
         "BACKGROUND_TERTIARY": ["#466c46", "#3e5e3e"],
         "BG_BASE_PRIMARY": ["#92b68f", "#92b68f"],
@@ -27,9 +35,8 @@
         "BG_BASE_TERTIARY": ["#617b61", "#617b61"],
         "EMBED_BACKGROUND": ["#466c46", "#466c46"],
         "CARD_PRIMARY_BG": ["#92b68f", "#92b68f"],
-        "CARD_PRIMARY_PRESSED_BG": ["#668e66", "#668e66"],
-        "CARD_SECONDARY_BG": ["#92b68f"],
-        "CHANNEL_ICON": ["#3f5b3f", "#3f5b3f"],
+        "CARD_PRIMARY_PRESSED_BG": ["#668e66", "#668e66
+            "CHANNEL_ICON": ["#3f5b3f", "#3f5b3f"],
         "CHANNELS_DEFAULT": ["#557d55", "#557d55"],
         "CHAT_BACKGROUND": ["#92b68f", "#7e9f7e"],
         "HEADER_PRIMARY": ["#3a4b3a", "#3a4b3a"],
@@ -42,8 +49,8 @@
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#466c46", "#466c46"],
         "REDESIGN_BUTTON_SECONDARY_BORDER": ["#4b6e4b", "#4b6e4b"],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#7e9f7e", "#7e9f7e"],
-        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#3a4b3a", "#3a4b3a"],
-        "REDESIGN_CHANNEL_NAME_TEXT": ["#3a4b3a", "#3a4b3a"],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#a59d80", "#a59d80"], 
+        "REDESIGN_CHANNEL_NAME_TEXT": ["#d1e0d1", "#d1e0d1"], 
         "REDESIGN_CHAT_INPUT_BACKGROUND": ["#7e9f7e", "#7e9f7e"],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#6c8e77", "#6c8e77"],
         "TEXT_LINK": ["#6c8e77", "#6c8e77"],
@@ -66,10 +73,8 @@
         "PRIMARY_360": "#466c46",
         "PRIMARY_400": "#3f5b3f",
         "PRIMARY_460": "#557d55",
-        "PRIMARY_500": "#3a4b3a",
-        "PRIMARY_600": "#4e6e57",
-        "PRIMARY_630": "#4e6e57",
-        "PRIMARY_660": "#6a8a69",
+        "PRIMARY_500": "#3a
+    "PRIMARY_660": "#6a8a69",
         "PRIMARY_700": "#6a8a69",
         "PRIMARY_730": "#6a8a69",
         "PRIMARY_800": "#7e9f7e",
@@ -94,4 +99,8 @@
         }
     },
     "spec": 2
+
 }
+
+
+Give me the fix, and just the parts
